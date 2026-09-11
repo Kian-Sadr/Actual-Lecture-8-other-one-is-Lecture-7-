@@ -1,4 +1,19 @@
+/*WARNING: This css file doesn't have an accompanying html file!*/
+
+
 body{
     text-align: center;
     font-size:24px;
+}
+
+#test{
+    display:list-item; /* or inline, block, none, inline-block*/
+}
+
+img{
+    float:left; /*or none, right*/
+}
+
+#second{
+    clear:right;
 }
